@@ -1,0 +1,6 @@
+{
+  "appId": "com.AKSingh.transcribe",
+  "appName": "TranscribeIT",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
